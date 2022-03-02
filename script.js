@@ -11,10 +11,6 @@ const populate = (data)=>{
     <li id="gender"><b>Gender : </b>${data.gender}</li>
     <li id="cell"><b>Contact No. : </b>${data.cell}</li>
     <li id="email"><b>Email : </b>${data.email}</li>
-    
-    
-    
-    
     `
 };
 
